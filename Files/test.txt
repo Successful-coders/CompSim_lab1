@@ -1,0 +1,6 @@
+Explanation of the code
+
+To use the numpy library in python, we need to import it.
+np is the alias name of numpy.
+p is the list having the coefficients.
+To find the roots of the equation, we used np.roots passing the coefficients as the parameter.
